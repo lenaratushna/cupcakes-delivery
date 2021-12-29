@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  overflow-y: scroll;
+}
+
+h1, h2, h3{
+  margin: 0;
+}
+
+ul {
+  padding-left: 0;
+}
+
+.container {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+.violet_btn {
+  text-transform: uppercase;
+  padding: 0.8rem 1.5rem;
+  border: 3px solid #A974E8;
+  cursor: pointer;
+  background-color: #A974E8;
+  color: #fff;
+  font-size: 1.2rem;
+  font-family: inherit;
+  font-weight: 600;
+  -webkit-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+  position: relative;
+  z-index: 2;
+}
+
+.violet_btn:hover {
+  background-color: #fff;
+  color: #A974E8;
+}
+

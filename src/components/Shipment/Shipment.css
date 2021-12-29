@@ -1,0 +1,14 @@
+.shipping {
+    margin-top: 2em;
+}
+
+.total {
+    margin-top: 0.5em;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.payBtn {
+    margin-top: 1.5em;
+    width: 100%;
+}
