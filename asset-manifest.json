@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cupcakes-delivery/static/css/main.27e63054.css",
-    "main.js": "/cupcakes-delivery/static/js/main.2d3db4c3.js",
+    "main.css": "/cupcakes-delivery/static/css/main.5c773205.css",
+    "main.js": "/cupcakes-delivery/static/js/main.06f1a90d.js",
     "index.html": "/cupcakes-delivery/index.html",
     "static/media/down.svg": "/cupcakes-delivery/static/media/down.181249c9953960bf37a1.svg",
     "static/media/up.svg": "/cupcakes-delivery/static/media/up.e0f0419c891b60413a4c.svg",
-    "main.27e63054.css.map": "/cupcakes-delivery/static/css/main.27e63054.css.map",
-    "main.2d3db4c3.js.map": "/cupcakes-delivery/static/js/main.2d3db4c3.js.map"
+    "main.5c773205.css.map": "/cupcakes-delivery/static/css/main.5c773205.css.map",
+    "main.06f1a90d.js.map": "/cupcakes-delivery/static/js/main.06f1a90d.js.map"
   },
   "entrypoints": [
-    "static/css/main.27e63054.css",
-    "static/js/main.2d3db4c3.js"
+    "static/css/main.5c773205.css",
+    "static/js/main.06f1a90d.js"
   ]
 }
