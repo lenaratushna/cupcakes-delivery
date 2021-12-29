@@ -5,7 +5,7 @@ import App from '../../App';
 import NotFound from '../NotFound/NotFound';
 
 const Router = () => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
             <Route exact path='/' component={Landing} />
             <Route path='/order/:city' component={App} />
